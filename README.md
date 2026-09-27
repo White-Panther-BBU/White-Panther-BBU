@@ -73,3 +73,56 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColo
+
+- 뱃지 응용작
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+
+---
+<!-- Python -->
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=222222">
+
+<!-- PyTorch -->
+<img src="https://img.shields.io/badge/AI_Engine-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=181717">
+
+<!-- FastAPI -->
+<img src="https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=222222">
+
+<!-- React -->
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232A">
+
+<!-- C# -->
+<img src="https://img.shields.io/badge/Language-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=181717">
+
+<!-- Docker -->
+<img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E252B">
+
+---
+
+<!-- Python 3단 연결 -->
+<img src="https://img.shields.io/badge/Language-181717?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"><img src="https://img.shields.io/badge/v3.11-4B8BBE?style=flat-square">
+
+<br>
+
+<!-- PyTorch 3단 연결 -->
+<img src="https://img.shields.io/badge/AI_Engine-222222?style=flat-square&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square"><img src="https://img.shields.io/badge/CUDA_12.1-76B900?style=flat-square&logo=nvidia&logoColor=white">
+
+<br>
+
+<!-- FastAPI 3단 연결 -->
+<img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"><img src="https://img.shields.io/badge/REST_API-00599C?style=flat-square">
