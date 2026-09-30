@@ -1,5 +1,118 @@
 ## Hi there 👋
 
+# 🐛 Hi, I'm BbuHhh
+---
+
+## 💀 Developer Survival Formula
+
+$$
+Survival =
+\frac{Coffee \times StackOverflow \times ChatGPT}
+{Bug \times Deadline}
+$$
+
+그리고
+
+$$
+Bug \rightarrow \infty
+$$
+
+일 때,
+
+$$
+Coffee \rightarrow \infty
+$$
+
+입니다.
+
+> 수학적으로 증명되었습니다.
+> 출처: 내 경험
+
+
+
+
+# 🔥 컨셉 5 — "내 개발자 스탯"
+
+GitHub 프로필을 게임 캐릭터처럼 만드는 것도 Gen-Z 느낌이 잘 나.
+
+```markdown
+# 🎮 BbuHhh.exe
+
+| STAT | LEVEL |
+|---|---|
+| 🐍 Python | █████████░ 90% |
+| 🤖 ML | ███████░░░ 70% |
+| 📝 NLP | ██████░░░░ 60% |
+| 🐳 Docker | █████░░░░░ 50% |
+| ☸️ MLOps | ████░░░░░░ 40% |
+| 🐛 Bug 생성 | ██████████ 100% |
+
+### Current Quest
+
+> `MLOps 기본 개념 이해하기`
+
+### Side Quest
+
+> `Docker 안에서 Docker를 이해하기`
+
+### Final Boss
+
+> `Kubernetes`
+
+---
+
+### 그냥 코딩하는 사람입니다.
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.skills = ["Python", "ML", "NLP", "MLOps"]
+        self.bugs = float("inf")
+        self.sleep = 0
+
+    def coding(self):
+        while True:
+            bug = self.create_bug()
+            self.fix_bug(bug)
+            self.create_new_bug()
+
+```
+
+$$
+Developer(BbuHhh) =
+Python + ML + NLP + MLOps + \frac{커피}{수면}
+$$
+
+
+$$
+Knowledge_{t+1} = Knowledge_t + Error_t
+$$
+
+$$
+Error \neq Bug
+$$
+
+
+## 🧑‍💻 Developer Status
+
+$$
+Coding = 10\% \ Coding + 90\% \ Debugging
+$$
+
+$$
+Sleep = \frac{100}{1 + BugCount}
+$$
+
+$$
+Confidence \propto \frac{1}{ErrorMessageLength}
+$$
+
+> 에러 메시지가 3줄이면  
+> "음~ 이건 금방 고치겠는데?"
+
+> 에러 메시지가 30줄이면  
+> "일단 Git commit부터 하자."
 
 **White-Panther-BBU/White-Panther-BBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
